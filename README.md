@@ -1,1 +1,1 @@
-# k_sec-videobox
+# Security Videobox project
